@@ -1,6 +1,6 @@
 # Presentación
 
-Diapositivas de la exposición *Sistemas de recomendación basados en contenido*. Para verlas, descarga `sistemas_recomendacion_contenido.html` y ábrelo en un navegador; no requiere instalar nada.
+Diapositivas de la exposición *Sistemas de recomendación basados en contenido*. Para verlas, abre la [versión en línea](https://nad2710.github.io/SistemasRecomendacionContenido_DMII/Presentacion/sistemas_recomendacion_contenido.html), o descarga `sistemas_recomendacion_contenido.html` y ábrelo en un navegador; no requiere instalar nada.
 
 | Tecla | Acción |
 |---|---|

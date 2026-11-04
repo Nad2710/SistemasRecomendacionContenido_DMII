@@ -12,7 +12,7 @@ Incluye la presentación de la exposición y los enlaces a Vibe Rhythming, un si
 
 | Material | Descripción | Enlace |
 |---|---|---|
-| Presentación | Diapositivas de la exposición, en un solo archivo HTML | [`Presentacion/`](Presentacion/) |
+| Presentación | Diapositivas de la exposición, en un solo archivo HTML | [Ver en línea](https://nad2710.github.io/SistemasRecomendacionContenido_DMII/Presentacion/sistemas_recomendacion_contenido.html) · [`Presentacion/`](Presentacion/) |
 | Sistema de recomendación | Código de la aplicación Vibe Rhythming | [makore-0612/vibe-rhythming](https://github.com/makore-0612/vibe-rhythming) |
 | Versión de la exposición | Código de la aplicación al momento de crear este repositorio | [commit `09479d9`](https://github.com/makore-0612/vibe-rhythming/tree/09479d9) |
 | Deploy | Aplicación en vivo en Streamlit Community Cloud | [vibe-rhythming.streamlit.app](https://vibe-rhythming.streamlit.app/) |
