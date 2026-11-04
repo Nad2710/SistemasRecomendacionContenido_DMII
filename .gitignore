@@ -1,0 +1,8 @@
+# Basura de sistema
+.DS_Store
+Thumbs.db
+
+# Herramientas personales
+CLAUDE*.md
+.claude/
+.mcp.json
